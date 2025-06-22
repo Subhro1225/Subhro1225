@@ -1,6 +1,4 @@
-
-
-
+![Header](./github-header-image.png)
 # 💫 About Me:
 I am a BCA second year student.<br>I am actively working on new projects.<br>
 

@@ -1,5 +1,4 @@
 # 💫 About Me:
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQyZGd6d3Rkc2R3bzBmbngzYXR4NDF6b2tudmNoNTZiZXFveHBjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" height="30%" align=right>
 I am a BCA second year student.<br>I am actively working on new projects.<br>
 
 <br>

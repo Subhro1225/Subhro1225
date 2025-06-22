@@ -21,9 +21,8 @@ I am a BCA second year student.<br>I am actively working on new projects.<br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,git,github,ps)](https://skillicons.dev)
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subhro1225&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Subhro1225&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Subhro1225&theme=apprentice&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhro1225&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Subhro1225&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)

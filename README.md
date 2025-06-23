@@ -1,4 +1,5 @@
-
+# Hi there 👋, 
+<br>My name is Subhrodeep Bhattacharjee
 
 🎓I am a 2nd year BCA student, interested in learning new languages and developing projects on them.
 <br> 🤝 Looking forward to contributing to open source projects and collaborating with fellow developers
